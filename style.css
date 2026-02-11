@@ -145,7 +145,7 @@ footer {
   bottom: 20px;
   left: 20px;
   background: #141416; /* ATUALIZADO */
-  border-left: 4px solid rgb(11, 11, 11);
+  border-left: 4px solid rgb(57, 255, 20);
   padding: 12px 16px;
   border-radius: 8px;
   box-shadow: 0 0 20px rgba(11, 11, 11, 0.25);
@@ -308,4 +308,5 @@ footer {
   from { opacity: 0; }
   to { opacity: 1; }
 }
+
 
